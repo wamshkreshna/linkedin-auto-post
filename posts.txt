@@ -1,1 +1,31 @@
+Day 1: Understanding Data Lakes vs Data Warehouses.
+Day 2: Why Spark uses DAG scheduling internally.
+Day 3: Basics of Delta Lake ACID transactions.
+Day 4: What is a Star Schema and when to use it.
+Day 5: Partitioning vs Bucketing in Hive and Spark.
+Day 6: Medallion Architecture explained (Bronze/Silver/Gold).
+Day 7: What are Slowly Changing Dimensions (SCD1, SCD2).
+Day 8: Writing optimized PySpark code (tips & tricks).
+Day 9: Lakehouse architecture — how it unifies lakes & warehouses.
+Day 10: ETL vs ELT — key differences.
+Day 11: How Kafka handles high-throughput streaming.
+Day 12: Spark Shuffle — how it really works.
+Day 13: Data Quality Checks framework.
+Day 14: Azure Data Factory — Pipeline, Activity, Trigger basics.
+Day 15: Delta Table vs Managed Table vs External Table.
+Day 16: Why Parquet is preferred for big data.
+Day 17: Cluster-by vs Distribute-by vs Order-by.
+Day 18: Bloom Filters in Delta Lake.
+Day 19: Data Modeling — Fact tables vs Dimension tables.
+Day 20: Pushdown optimization in Spark.
+Day 21: What is Z-Ordering in Delta Lake?
+Day 22: Filtering and Pruning in Spark SQL.
+Day 23: Kafka Consumer Groups behavior.
+Day 24: PySpark Window Functions simplified.
+Day 25: Airflow DAG Scheduling concepts.
+Day 26: Pipeline vs Notebook in Databricks.
+Day 27: CDC (Change Data Capture) in ETL systems.
+Day 28: Data Engineering interview cheat-sheet.
+Day 29: Why Metadata is the heart of the Lakehouse.
+Day 30: My 30-day Data Engineering learning journey summary.
 
